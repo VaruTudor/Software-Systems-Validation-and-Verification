@@ -1,0 +1,12 @@
+1.Show all students
+2.Show all homework
+3.Adding a student
+4.Adding a homework - for the description it seems it keeps only the opening quotation marks used for strings
+5.Extending a deadline - it seems to fail (maybe the search is not working, due to the error message: 'Tema nu exista!')
+6.Delete an existing student by id
+7.Update non-id field for a student
+8.Show all grades
+9.Delete an existing homework
+10.Adding a grade to a homework assigned to a student (knowing the initial value, the grade will be computed based on the delay)
+
+(*) The features are written in the order they were checked.
